@@ -48,15 +48,6 @@ Esta página web sirve como un portafolio interactivo donde los clientes pueden 
 └── README.md           # Documentación del proyecto
 ```
 
-## 🚀 Instalación y Uso
-
-1.  **Clonar el repositorio** (o descargar los archivos):
-    ```bash
-    git clone <url-del-repositorio>
-    ```
-2.  **Abrir el proyecto:**
-    Simplemente abre el archivo `index.html` en tu navegador web favorito (Chrome, Firefox, Edge, Safari). No se requiere servidor backend ni instalación de dependencias.
-
 ## 📧 Contacto
 
 *   **Correo:** mictlan.design.mx@gmail.com
